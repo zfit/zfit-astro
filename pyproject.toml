@@ -28,7 +28,9 @@ classifiers = [
   "Typing :: Typed",
 ]
 dynamic = ["version"]
-dependencies = []
+dependencies = [
+"zfit"
+]
 
 [project.optional-dependencies]
 test = [
