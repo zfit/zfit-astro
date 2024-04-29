@@ -1,9 +1,7 @@
-"""
-Copyright (c) 2024 Jonas Eschle. All rights reserved.
+"""Copyright (c) 2024 Jonas Eschle. All rights reserved.
 
 zfit-astro: Astrophysics extensions for zfit
 """
-
 
 from __future__ import annotations
 
